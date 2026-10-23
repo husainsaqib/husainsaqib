@@ -27,8 +27,8 @@ I'm a Computer Science graduate working towards becoming a software engineer. Cu
 
 ## Featured Projects
 
-- [Java DSA Practice][(YOUR_REPOSITORY_LINK)](https://github.com/husainsaqib/DSA-JAVA) — Data structures and algorithms implemented in Java.
-- [Java Projects][(YOUR_REPOSITORY_LINK) ](https://github.com/husainsaqib/Javalabwork)— Small applications and practice projects.
+- [Java DSA Practice](https://github.com/husainsaqib/DSA-JAVA) — Data structures and algorithms implemented in Java.
+- [Java Projects](https://github.com/husainsaqib/Javalabwork)— Small applications and practice projects.
 
 
 ## My Approach
