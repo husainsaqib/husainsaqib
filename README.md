@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mohd Saqib
 
-<!--
-**husainsaqib/husainsaqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer in Progress | CSE Graduate
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate working towards becoming a software engineer. Currently, I'm focusing on Java, Data Structures and Algorithms, SQL, and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+
+- Java: OOP, Collections, Generics, Streams, Multithreading
+- DSA: Arrays, Linked Lists, Stacks, Queues, Trees
+- Database: SQL and MySQL
+- Backend: Spring Boot and Hibernate
+
+## What I'm Working On
+
+- Implementing data structures from scratch in Java
+- Solving programming problems and understanding their time complexity
+- Building projects to strengthen my Java and database skills
+
+## Tech Stack
+
+**Languages:** Java, C++, SQL
+
+**Tools:** Git, GitHub, VS Code, Eclipse, MySQL
+
+**Currently Exploring:** Spring Boot, Hibernate, REST APIs
+
+## Featured Projects
+
+- [Java DSA Practice][(YOUR_REPOSITORY_LINK)](https://github.com/husainsaqib/DSA-JAVA) — Data structures and algorithms implemented in Java.
+- [Java Projects][(YOUR_REPOSITORY_LINK) ](https://github.com/husainsaqib/Javalabwork)— Small applications and practice projects.
+
+
+## My Approach
+
+Learn the concept. Write the code. Test it. Fix the bugs. Repeat.
+
+---
+
+*Always learning, building, and improving one commit at a time.*
